@@ -16,7 +16,7 @@ Ich bin Quereinsteiger. Vorher Spedition, Logistik und Pflege, danach die Ausbil
 
 Im Frontend arbeite ich mit Angular und TypeScript, im Backend mit Python und Django. Die Projekte hier sind größtenteils aus der Ausbildung entstanden, bei den meisten habe ich Frontend und Backend selbst gebaut, inklusive Deployment.
 
-Am Programmieren gefällt mir, dass sich ein Problem so lange zerlegen lässt, bis es lösbar ist, und dass am Ende ziemlich eindeutig feststeht, ob es funktioniert. Ich lese dafür viel Dokumentation, meistens gleich im englischen Original, und schaue mir gern an, wie andere ihre Projekte aufbauen. Die Ausbildung lief remote von Meiningen aus, was gut geklappt hat, weil ich mir Arbeit selbst einteilen kann. Im Schichtbetrieb hat vorher auch niemand gefragt, ob ich heute Lust habe.
+Was mir an der Entwicklung gefällt: Man kann ein großes Problem in kleine Teile zerlegen, bis jedes davon lösbar ist. Und wenn am Ende etwas läuft, das vorher nur eine Idee war, ist das jedes Mal ein gutes Gefühl. Ich probiere viel aus, lese Dokumentation lieber einmal zu viel als zu wenig und schaue mir gern an, wie andere ihre Projekte aufbauen. Die Ausbildung lief remote von Meiningen aus, die Projekte haben wir im Team nach Kanban organisiert. Selbstständig zu arbeiten liegt mir, die Abstimmung mit anderen mag ich aber genauso.
 
 <br>
 
