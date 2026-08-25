@@ -12,7 +12,7 @@
 
 ---
 
-Ich bin Quereinsteiger. Vorher Spedition, Logistik und Pflege, seit 2025 die Ausbildung zum Fullstack Developer an der Developer Akademie. Das Frontend-Modul ist durch, gerade läuft das Backend-Modul.
+Ich bin Quereinsteiger. Vorher Spedition, Logistik und Pflege, danach die Ausbildung zum Fullstack Developer an der Developer Akademie. Beide Module, Frontend und Backend, sind abgeschlossen.
 
 Im Frontend arbeite ich mit Angular und TypeScript, im Backend mit Python und Django. Die Projekte hier sind größtenteils aus der Ausbildung entstanden, bei den meisten habe ich Frontend und Backend selbst gebaut, inklusive Deployment.
 
@@ -27,19 +27,6 @@ Im Frontend arbeite ich mit Angular und TypeScript, im Backend mit Python und Dj
 | **Daten & Infra** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-353744?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-353744?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-353744?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-353744?style=flat-square&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-353744?style=flat-square&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-353744?style=flat-square&logo=firebase&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-353744?style=flat-square&logo=linux&logoColor=white) |
 | **Werkzeuge** | ![Git](https://img.shields.io/badge/Git-353744?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-353744?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-353744?style=flat-square&logo=visualstudiocode&logoColor=white) ![npm](https://img.shields.io/badge/npm-353744?style=flat-square&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-353744?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-353744?style=flat-square&logo=figma&logoColor=white) |
 
-<br>
-
-## Projekte
-
-| Projekt | Was drinsteckt | Stack |
-|:--|:--|:--|
-| **[Videoflix](https://github.com/KevinHaseDev/Videoflix)** | Backend einer Streaming-Plattform. Uploads werden mit FFmpeg in HLS-Streams umgewandelt, im Hintergrund über eine Redis Queue, damit der Request nicht blockiert. JWT liegt in HttpOnly-Cookies. | Django · PostgreSQL · Redis · Docker |
-| **[Quizly](https://github.com/KevinHaseDev/Quizly)** | Macht aus einem YouTube-Video ein Quiz: yt-dlp holt das Audio, Whisper transkribiert lokal, Gemini Flash baut zehn Multiple-Choice-Fragen daraus. | Django · Whisper · Gemini |
-| **[Coderr](https://github.com/KevinHaseDev/Coderr)** | REST-API für einen Marktplatz zwischen Anbietern und Kunden. Getrennte Apps für Profile, Angebote, Bestellungen und Bewertungen. | Django · DRF · SQLite |
-| **[Join](https://github.com/KevinHaseDev/Join)** | Task-Management nach Kanban-Prinzip für mehrere Nutzer. | Angular · TypeScript · SCSS |
-| **[KanMind](https://github.com/KevinHaseDev/KanMind)** | Kanban-Backend mit Boards, Tasks und Kommentaren als REST-API. | Django · DRF |
-| **[El Pollo Loco](https://github.com/KevinHaseDev/El-Pollo-Loco)** | Jump-and-Run im Browser, objektorientiert auf einem Canvas. Ohne Framework, ohne Engine. | Vanilla JavaScript |
-| **[Portfolio](https://github.com/KevinHaseDev/Portfolio)** | Meine Projektseite, [portfolio.kevin-hase.de](https://portfolio.kevin-hase.de) | Angular · TypeScript · SCSS |
 
 <br>
 
@@ -61,8 +48,8 @@ Im Frontend arbeite ich mit Angular und TypeScript, im Backend mit Python und Dj
 
 ## Gerade
 
-- Ich schaue mir Caching, Signals und Task Queues in Django genauer an, also das, was ein Backend über den Standardfall hinaus tragfähig macht.
-- Ich suche eine Stelle als Fullstack Developer, gern mit Business-Applikationen.
+- Ich suche eine Stelle als Fullstack Developer, gern mit Business-Applikationen. Verfügbar bin ich sofort.
+- Nebenher vertiefe ich Caching, Signals und Task Queues in Django, also das, was ein Backend über den Standardfall hinaus tragfähig macht.
 - Deutsch als Muttersprache, Englisch verhandlungssicher.
 
 <br>
