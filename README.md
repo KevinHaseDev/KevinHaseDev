@@ -21,7 +21,7 @@ Im Frontend arbeite ich mit Angular und TypeScript, im Backend mit Python und Dj
 Was mir an der Entwicklung gefällt: Man kann ein großes Problem in kleine Teile zerlegen, bis jedes davon lösbar ist. Und wenn am Ende etwas läuft, das vorher nur eine Idee war, ist das jedes Mal ein gutes Gefühl. Ich probiere viel aus, lese Dokumentation lieber einmal zu viel als zu wenig und schaue mir gern an, wie andere ihre Projekte aufbauen. Die Ausbildung lief remote von Meiningen aus, die Projekte haben wir im Team nach Kanban organisiert. Selbstständig zu arbeiten liegt mir, die Abstimmung mit anderen mag ich aber genauso.
 
 > [!NOTE]
-> Ich suche aktuell eine Stelle als Fullstack Developer, gern mit Business-Applikationen. Verfügbar bin ich sofort, remote oder vor Ort.
+> Ich suche aktuell eine Stelle als Fullstack Developer, gern mit Business-Applikationen. Verfügbar bin ich sofort.
 
 <br>
 
